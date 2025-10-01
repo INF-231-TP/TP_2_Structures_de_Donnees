@@ -19,12 +19,12 @@ ce nœud à une position `x` en fonction du résultat de la recherche.
 iii) **Pour le point 3 :** il est également nécessaire de savoir créer un nœud et de faire une recherche séquentielle pour 
 l'insérer à une position `x`. Cependant, il faut prendre en compte le fait que l'on travaille sur une liste **doublement chaînée**, donc il faut gérer le pointeur du nœud qui pointe sur l'élément précédent.
 
-iv) **Pour le point 4 :** ici, les notions du point `ii` sont nécessaires, mais pour les listes **simplement chaînées
+iv) **Pour le point 4 :** ici, les notions du  ii sont nécessaires, mais pour les listes **simplement chaînées
 circulaires**. Leur manipulation est particulière. On a l'habitude de travailler avec la tête de liste, mais ici on travaillera
 avec la **queue**, car la manipulation est plus facile et évite de parcourir toute la liste. Par exemple, pour insérer en tête,
 il faudra juste insérer le nœud après la queue.
 
-v) **Pour le point 5 :** ici, les notions du point `iii` sont nécessaires, mais pour les listes **doublement chaînées
+v) **Pour le point 5 :** ici, les notions du iii sont nécessaires, mais pour les listes **doublement chaînées
 circulaires**. Comme pour le cas précédent, on travaillera avec la **queue** pour plus de facilité. Pour insérer en tête,
 il faudra insérer le nœud avant la tête (qui est le suivant de la queue) et pour l'insertion en queue, il faudra insérer
 avant la tête et ensuite affecter le nouvel élément comme nouvelle queue.
