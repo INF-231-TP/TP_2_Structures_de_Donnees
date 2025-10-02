@@ -8,7 +8,7 @@ Tableaux = taille fixe, accès direct.
 
 Listes chaînées = taille dynamique, accès séquentiel.
 
-## 📌 Étapes de travail réalisées
+##  Étapes de travail réalisées
 
 Création d’un projet en programmation modulaire :
 
@@ -36,7 +36,7 @@ Amélioration de l’affichage avec des couleurs ANSI (printf("\033[31mTexte rou
 
 Utilisation de malloc et free pour la gestion de mémoire dynamique.
 
-## 📊 Tests et validation
+##  Tests et validation
 
 Vérification de l’insertion et suppression sur liste vide et non vide.
 
