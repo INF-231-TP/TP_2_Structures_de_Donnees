@@ -3,7 +3,7 @@
 
 # Projet de Gestion des Listes Chaînées en C
 
-# 👥 Équipe de Travail
+#  Équipe de Travail
 
 Ce projet a été réalisé en groupe. Chaque membre de l’équipe a participé activement :
 
@@ -15,7 +15,7 @@ Organisation en programmation modulaire (plusieurs fichiers .c et .h).
 
 Tests, corrections et amélioration de l’affichage (ajout de couleurs).
 
-# 🎯 Objectif du Projet
+#  Objectif du Projet
 
 Le but est de mettre en œuvre la programmation modulaire en C avec des listes chaînées simples et doubles, tout en proposant un menu interactif permettant d’effectuer différentes opérations.
 
@@ -31,8 +31,8 @@ Gestion mémoire dynamique avec malloc et free.
 
 Affichage avec texte en couleur pour améliorer l’expérience utilisateur.
 
-# 📂 Organisation du Projet
-📁 TP-2_Structures_de_Donnees
+#  Organisation du Projet
+TP-2_Structures_de_Donnees
  ├── main.c         # Point d’entrée (menu interactif)
  ├── fonction.c     # Implémentation des fonctions
  ├── fonction.h     # Prototypes des fonctions
