@@ -19,7 +19,7 @@ Tests, corrections et amélioration de l’affichage (ajout de couleurs).
 
 Le but est de mettre en œuvre la programmation modulaire en C avec des listes chaînées simples et doubles, tout en proposant un menu interactif permettant d’effectuer différentes opérations.
 
-# ⚙️ Fonctionnalités
+# Fonctionnalités
 
 Insertion en tête, en fin et à une position donnée.
 
